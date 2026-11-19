@@ -5,3 +5,5 @@ if Aniversariante == "sim" or Ingresso == "sim":
     print ("Acesso iberado")
 else:
     print ("Acesso negado, compre um ingresso")
+
+print ("Hello")
